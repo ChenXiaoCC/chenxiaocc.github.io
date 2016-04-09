@@ -1,19 +1,19 @@
-permalink: /:year/:month/:day/:title.html
+﻿permalink: /:year/:month/:day/:title.html
 paginate: 10
 #markdown: redcarpet
 markdown: kramdown
 
 # Author
 author: 
-  name: Terry Chen Nan
-  email: ichennan@sina.com
-  link: http://ichennan.github.io
-  github: http://github.com/ichennan
+  name: Billy Chen Xiao
+  email: billy.chenxiao@gmail.com
+  link: chenxiao.cc
+  github: http://github.com/chenxiaocc
 
 # Site
-title: Ichennan
-description: Blog of Terry Chen Nan
-url: http://ichennan.github.io
+title: chen xiao
+description: Blog of Billy Chen Xiao
+url: http://chenxiao.cc
 rss_url: /pages/atom.xml
 
 # gavatar Favicon
@@ -23,7 +23,7 @@ favicon: /public/img/deer3.png
 # google analytics
 ga:
   id: UA-54262064-1 
-  url: ichennan.github.io
+  url: chenxiao.cc
 
 # default active
 active: 读书
